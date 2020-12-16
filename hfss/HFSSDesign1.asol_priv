@@ -1,0 +1,54 @@
+$begin '$base_index$'
+  $begin 'properties'
+    all_levels=000000000000
+    time(year=000000002018, month=000000000011, day=000000000029, hour=000000000015, min=000000000040, sec=000000000015)
+    version=000000000000
+  $end 'properties'
+  $begin '$base_index$'
+    $index$(pos=000000000000, lin=000000000001, lvl=000000000000)
+  $end '$base_index$'
+$end '$base_index$'
+$begin 'SolutionBlock1'
+	ProductName=''
+	CircuitName='HFSSDesign1'
+	VersionID=514
+	PostProcess=false
+	LossLess=true
+	NextUniqueID=783
+	MoveBackwards=false
+	$begin 'VariationIDs'
+		Map(V='a=\'8m\' c=\'8.9m\' C1=\'1m\' C2=\'12m\' c3=\'23m\' lp=\'15.95m\' r1=\'9.4m\' r2=\'7.7mm\' r4=\'7m\' wp=\'3m\' xlad=\'11m\' xlado2=\'3.1m\' ylado=\'18.5m\' ylado2=\'5.5m\'', ID=440)
+		Map(V='a=\'8m\' c=\'8.9m\' C1=\'2.2m\' C2=\'12m\' c3=\'23m\' lp=\'15.95m\' r1=\'9.4m\' r2=\'7.7mm\' r4=\'7m\' wp=\'3m\' xlad=\'11m\' xlado2=\'3.1m\' ylado=\'18.5m\' ylado2=\'5.5m\'', ID=355)
+		Map(V='a=\'8m\' c=\'8.9m\' C1=\'2m\' C2=\'12m\' c3=\'23m\' lp=\'15.95m\' r1=\'9.4m\' r2=\'7.7mm\' r4=\'7m\' t=\'1mm\' wp=\'3m\' xlad=\'11m\' xlado2=\'3.1m\' ylado=\'18.5m\' ylado2=\'5.5m\'', ID=498)
+		Map(V='a=\'8m\' c=\'8.9m\' C1=\'2m\' C2=\'12m\' c3=\'23m\' lp=\'15.95m\' r1=\'9.4m\' r2=\'7.7mm\' r4=\'7m\' t=\'3mm\' wp=\'3m\' xlad=\'11m\' xlado2=\'3.1m\' ylado=\'18.5m\' ylado2=\'5.5m\'', ID=495)
+		Map(V='a=\'8m\' c=\'8.9m\' C1=\'2m\' C2=\'12m\' c3=\'23m\' lp=\'15.95m\' r1=\'9.4m\' r2=\'7.7mm\' r4=\'7m\' wp=\'3m\' xlad=\'11m\' xlado2=\'3.1m\' ylado=\'18.5m\' ylado2=\'5.5m\'', ID=172)
+		Map(V='a=\'8m\' c=\'8.9m\' C1=\'3m\' C2=\'12m\' c3=\'23m\' lp=\'15.95m\' r1=\'9.4m\' r2=\'7.7mm\' r4=\'7m\' t=\'0.3mm\' wp=\'3m\' xlad=\'11m\' xlado2=\'3.1m\' ylado=\'18.5m\' ylado2=\'5.5m\'', ID=500)
+		Map(V='a=\'8m\' c=\'8.9m\' C1=\'3m\' C2=\'12m\' c3=\'23m\' lp=\'15.95m\' r1=\'9.4m\' r2=\'7.7mm\' r4=\'7m\' t=\'1mm\' wp=\'3m\' xlad=\'11m\' xlado2=\'3.1m\' ylado=\'18.5m\' ylado2=\'5.5m\'', ID=499)
+		Map(V='a=\'8m\' c=\'8.9m\' C1=\'3m\' C2=\'12m\' c3=\'23m\' lp=\'15.95m\' r1=\'9.4m\' r2=\'7.7mm\' r4=\'7m\' t=\'3mm\' wp=\'3m\' xlad=\'11m\' xlado2=\'3.1m\' ylado=\'18.5m\' ylado2=\'5.5m\'', ID=504)
+		Map(V='a=\'8m\' c=\'8.9m\' C1=\'3m\' C2=\'12m\' c3=\'23m\' lp=\'15.95m\' r1=\'9.4m\' r2=\'7.7mm\' r4=\'7m\' wp=\'3m\' xlad=\'11m\' xlado2=\'3.1m\' ylado=\'18.5m\' ylado2=\'5.5m\'', ID=356)
+		Map(V='a=\'8m\' c=\'8.9m\' C1=\'4m\' C2=\'12m\' c3=\'23m\' lp=\'15.95m\' r1=\'9.4m\' r2=\'7.7mm\' r4=\'7m\' t=\'0.3mm\' wp=\'3m\' xlad=\'11m\' xlado2=\'3.1m\' ylado=\'18.5m\' ylado2=\'5.5m\'', ID=501)
+		Map(V='a=\'8m\' c=\'8.9m\' C1=\'4m\' C2=\'12m\' c3=\'23m\' lp=\'15.95m\' r1=\'9.4m\' r2=\'7.7mm\' r4=\'7m\' t=\'2mm\' wp=\'3m\' xlad=\'11m\' xlado2=\'3.1m\' ylado=\'18.5m\' ylado2=\'5.5m\'', ID=503)
+		Map(V='a=\'8m\' c=\'8.9m\' C1=\'4m\' C2=\'12m\' c3=\'23m\' lp=\'15.95m\' r1=\'9.4m\' r2=\'7.7mm\' r4=\'7m\' t=\'3mm\' wp=\'3m\' xlad=\'11m\' xlado2=\'3.1m\' ylado=\'18.5m\' ylado2=\'5.5m\'', ID=502)
+		Map(V='a=\'8m\' c=\'8.9m\' C1=\'4m\' C2=\'12m\' c3=\'23m\' lp=\'15.95m\' r1=\'9.4m\' r2=\'7.7mm\' r4=\'7m\' wp=\'3m\' xlad=\'11m\' xlado2=\'3.1m\' ylado=\'18.5m\' ylado2=\'5.5m\'', ID=428)
+		Map(V='a=\'8m\' c=\'8.9m\' C1=\'5m\' C2=\'12m\' c3=\'23m\' lp=\'15.95m\' r1=\'9.4m\' r2=\'7.7mm\' r4=\'7m\' wp=\'3m\' xlad=\'11m\' xlado2=\'3.1m\' ylado=\'18.5m\' ylado2=\'5.5m\'', ID=427)
+	$end 'VariationIDs'
+	$begin 'LinkedDataList'
+	$end 'LinkedDataList'
+	$begin 'InitialMeshes'
+		M(VID=502, Ver=514, Dir='DV502_V514.imesh/')
+	$end 'InitialMeshes'
+	$begin 'MI'
+		$begin 'SubData'
+			ID=0
+			MI(VID=502, Ver=514, Dir='DV502_MI0_V514.sd/')
+		$end 'SubData'
+	$end 'MI'
+$end 'SolutionBlock1'
+$begin 'BlockMapName'
+	FileHeader='SolutionBlock1'
+	'SolutionKey(SimSetup=169, Instance=\'SetupDefinition\', Solution=-1, VersionID=514)'='SolutionBlock31'
+	'SolutionKey(SimSetup=169, Instance=\'SolutionDefinition\', Solution=170, VersionID=603)'='SolutionBlock36'
+	'SolutionKey(SimSetup=169, Instance=\'SolutionDefinition\', Solution=171, VersionID=603)'='SolutionBlock37'
+	'SolutionKey(SimSetup=169, Instance=\'SolutionDefinition\', Solution=173, VersionID=603)'='SolutionBlock38'
+	'SolutionKey(SimSetup=169, Instance=\'a=\\\'8m\\\' c=\\\'8.9m\\\' C1=\\\'4m\\\' C2=\\\'12m\\\' c3=\\\'23m\\\' lp=\\\'15.95m\\\' r1=\\\'9.4m\\\' r2=\\\'7.7mm\\\' r4=\\\'7m\\\' t=\\\'3mm\\\' wp=\\\'3m\\\' xlad=\\\'11m\\\' xlado2=\\\'3.1m\\\' ylado=\\\'18.5m\\\' ylado2=\\\'5.5m\\\'\', Solution=-3, VersionID=514)'='SolutionBlock42'
+$end 'BlockMapName'
